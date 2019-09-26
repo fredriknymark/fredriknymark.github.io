@@ -1,0 +1,47 @@
+#cpu {
+    left: 100px;
+    top: 50px;
+    width: 350px;
+    height: 350px;
+    border: solid black 1px;
+    border-radius: 30px;
+    background-color: bisque;
+
+}
+
+#controll {
+
+}
+
+#processor {
+
+}
+
+#registers {
+
+}
+
+#alu {
+
+}
+
+#memory {
+
+}
+
+#input {
+
+}
+
+#output {
+
+}
+
+.firkant {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
